@@ -1,0 +1,31 @@
+  /*Tim Baiton's CodeAcademy Dasmoto project - stylesheet*/
+h1, h2, h3, p {
+  font-family:Helvetica;
+}
+h1 {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+  font-size:100px;
+  font-weight:bold;
+  color:khaki;
+  text-align:center;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color:white;
+  background-color: mediumspringgreen;
+}
+.price {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+#frame {
+  background-color: lightcoral;
+}
+#paint {
+  background-color: skyblue;
+}
+.item {
+  display:block;
+}
